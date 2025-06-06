@@ -19,6 +19,7 @@ import com.getkeepsafe.taptargetview.TapTargetSequence;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.haliltanriverdi.memoly.databinding.ActivityMainBinding;
+import com.haliltanriverdi.memoly.wordle.WordleGameActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -202,8 +203,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void mainToWordle(View view){
-        //Wordle Ekran
-    }
+        Intent intent = new Intent(MainActivity.this, WordleGameActivity.class);
+        startActivity(intent);    }
 
     public void mainToWordList(View view){
         Intent intent = new Intent(MainActivity.this, WordList.class);
