@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.haliltanriverdi.memoly.OnBoarding.OnboardingActivity;
+import com.haliltanriverdi.memoly.onBoarding.OnboardingActivity;
 
 public class LauncherActivity extends AppCompatActivity {
 

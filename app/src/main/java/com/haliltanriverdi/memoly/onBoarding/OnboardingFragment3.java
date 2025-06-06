@@ -1,4 +1,4 @@
-package com.haliltanriverdi.memoly.OnBoarding;
+package com.haliltanriverdi.memoly.onBoarding;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,7 +14,9 @@ public class OnboardingFragment3 extends Fragment {
 
     private FragmentOnboarding3Binding binding;
 
-    public OnboardingFragment3() {}
+    public OnboardingFragment3() {
+        // boş constructor
+    }
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {

@@ -1,4 +1,4 @@
-package com.haliltanriverdi.memoly.OnBoarding;
+package com.haliltanriverdi.memoly.onBoarding;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

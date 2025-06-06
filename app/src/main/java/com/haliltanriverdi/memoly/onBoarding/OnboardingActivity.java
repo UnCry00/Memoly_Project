@@ -1,19 +1,14 @@
-package com.haliltanriverdi.memoly.OnBoarding;
+package com.haliltanriverdi.memoly.onBoarding;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.haliltanriverdi.memoly.LoginActivity;
-import com.haliltanriverdi.memoly.MainActivity;
-import com.haliltanriverdi.memoly.OnBoarding.adapter.OnboardingPagerAdapter;
-import com.haliltanriverdi.memoly.R;
-import com.haliltanriverdi.memoly.RegisterActivity;
+import com.haliltanriverdi.memoly.onBoarding.adapter.OnboardingPagerAdapter;
 import com.haliltanriverdi.memoly.databinding.ActivityOnboardingBinding;
-import com.tbuonomo.viewpagerdotsindicator.DotsIndicator;
 
 public class OnboardingActivity extends AppCompatActivity {
 

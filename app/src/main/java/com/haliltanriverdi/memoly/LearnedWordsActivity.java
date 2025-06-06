@@ -155,11 +155,12 @@ public class LearnedWordsActivity extends AppCompatActivity {
 
                     @Override
                     public void onSequenceStep(TapTarget lastTarget, boolean targetClicked) {
-
+                        // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
                     }
 
                     @Override
                     public void onSequenceCanceled(TapTarget lastTarget) {
+                        // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
                     }
                 });
 
@@ -171,10 +172,12 @@ public class LearnedWordsActivity extends AppCompatActivity {
         binding.searchEditText.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+                // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
             }
 
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
+                // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
             }
 
             @Override

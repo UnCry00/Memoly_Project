@@ -63,10 +63,12 @@ public class QuizSettingsActivity extends AppCompatActivity {
 
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
+                // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
             }
 
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
+                // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
             }
         });
 

@@ -79,7 +79,9 @@ public class WordList extends AppCompatActivity implements WordAdapter.WordItemL
             }
 
             @Override
-            public void afterTextChanged(Editable s) {}
+            public void afterTextChanged(Editable s) {
+                // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
+            }
         });
 
         loadWords();
@@ -131,11 +133,12 @@ public class WordList extends AppCompatActivity implements WordAdapter.WordItemL
 
                     @Override
                     public void onSequenceStep(TapTarget lastTarget, boolean targetClicked) {
-
+                        // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
                     }
 
                     @Override
                     public void onSequenceCanceled(TapTarget lastTarget) {
+                        // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
                     }
                 });
 

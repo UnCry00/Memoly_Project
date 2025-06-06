@@ -30,10 +30,6 @@ public class WordDetailActivity extends AppCompatActivity {
         View view = binding.getRoot();
         setContentView(view);
 
-        //setSupportActionBar(binding.toolbar);
-        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        //getSupportActionBar().setTitle("Kelime Detayı");
-
         firebaseManager = FirebaseManager.getInstance();
 
         String wordId = getIntent().getStringExtra(EXTRA_WORD_ID);

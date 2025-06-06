@@ -1,13 +1,13 @@
-package com.haliltanriverdi.memoly.OnBoarding.adapter;
+package com.haliltanriverdi.memoly.onBoarding.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.haliltanriverdi.memoly.OnBoarding.OnboardingFragment1;
-import com.haliltanriverdi.memoly.OnBoarding.OnboardingFragment2;
-import com.haliltanriverdi.memoly.OnBoarding.OnboardingFragment3;
+import com.haliltanriverdi.memoly.onBoarding.OnboardingFragment1;
+import com.haliltanriverdi.memoly.onBoarding.OnboardingFragment2;
+import com.haliltanriverdi.memoly.onBoarding.OnboardingFragment3;
 
 public class OnboardingPagerAdapter extends FragmentStateAdapter {
 

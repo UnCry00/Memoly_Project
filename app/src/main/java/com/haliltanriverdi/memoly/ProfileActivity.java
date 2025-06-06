@@ -145,11 +145,12 @@ public class ProfileActivity extends AppCompatActivity {
 
                     @Override
                     public void onSequenceStep(TapTarget lastTarget, boolean targetClicked) {
-
+                        // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
                     }
 
                     @Override
                     public void onSequenceCanceled(TapTarget lastTarget) {
+                        // Bu metod şu anda kullanılmıyor, ileride işlevsellik eklenebilir.
                     }
                 });
 
