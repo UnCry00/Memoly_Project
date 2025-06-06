@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390578561067",
+    "project_id": "memoly-54c99",
+    "storage_bucket": "memoly-54c99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390578561067:android:ae10fa10b5e026ae540a6e",
+        "android_client_info": {
+          "package_name": "com.haliltanriverdi.memoly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-OpDgooD9SGBPO20eITOHDJVYjTPtCEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

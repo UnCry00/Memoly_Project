@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#8692f7</color>
+    <color name="pink">#f786e3</color>
+    <color name="orange">#f7b886</color>
+    <color name="turkuaz">#86f7e7</color>
+    <color name="blue">#a986f7</color>
+    <color name="green">#86f78c</color>
+    <color name="soft">#C1AAE7FF</color>
+
+    <color name="wordle_green">#6AAA64</color>
+    <color name="wordle_yellow">#C9B458</color>
+    <color name="wordle_gray">#787C7E</color>
+    <color name="wordle_dark_bg">#2D2D2D</color>
+    <color name="wordle_white">#FFFFFF</color>
+
+    <color name="wordle_correct">#6aaa64</color>
+    <color name="wordle_misplaced">#c9b458</color>
+    <color name="wordle_wrong">#787c7e</color>
+    <color name="keyboard_default">#d3d6da</color>
+    <color name="wordle_background">#121213</color>
+    <color name="wordle_level_background">#2e3856</color>
+    <color name="wordle_word_background">#3a3a3c</color>
+    <color name="wordle_success_background">#538d4e</color>
+    <color name="wordle_failure_background">#b59f3b</color>
+    <color name="wordle_word_info_background">#ffffff</color>
+    <color name="wordle_button_color">#538d4e</color>
+
+
+
+</resources>

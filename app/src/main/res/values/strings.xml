@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Memoly</string>
+    <string name="title_activity_user_info">UserInfoActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="book_cover">Kelime Resmi</string>
+    <string name="book_title">Türkçe Kelime</string>
+    <string name="author_name">İngilizce Kelime</string>
+    <string name="publisher">Örnek Cümle</string>
+    <string name="book_description">Kelime Açıklaması</string>
+    <string name="tap_to_add_image">Resim eklemek için dokunun</string>
+    <string name="save">Kaydet</string>
+    <string name="add_new_book">Yeni Kelime Ekle</string>
+    <string name="empty_books_list">Henüz kelime eklenmemiş</string>
+    <string name="profile_title">Profil Bilgileri</string>
+    <string name="edit">Düzenle</string>
+    <string name="name_hint">İsim</string>
+    <string name="lastname_hint">Soyisim</string>
+    <string name="email_hint">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="forgetPassword">Şifremi Unuttum</string>
+
+
+    <string name="fill_all_fields">Lütfen tüm alanları doldurun</string>
+    <string name="delete_old_image_failed">Eski fotoğraf silinemedi, lütfen tekrar deneyin.</string>
+    <string name="image_upload_failed">Fotoğraf yüklenemedi, lütfen tekrar deneyin.</string>
+    <string name="update_success">Bilgiler başarıyla güncellendi</string>
+    <string name="update_failed">Bilgiler güncellenemedi, lütfen tekrar deneyin.</string>
+    <string name="email_update_success">E-posta adresiniz başarıyla güncellendi.</string>
+    <string name="email_update_failed">E-posta güncellenemedi, lütfen tekrar deneyin.</string>
+    <string name="permission_required">Galeriye erişim için izin gerekli</string>
+    <string name="grant_permission">İzin ver</string>
+    <string name="permission_denied">İzin gerekli!</string>
+    <string name="confirm_image_title">Resmi Onayla</string>
+    <string name="confirm_image_message">Bu resmi profil fotoğrafı olarak kullanmak istiyor musunuz?</string>
+    <string name="yes">Evet</string>
+    <string name="cancel">İptal</string>
+    <string name="email_verification_title">E-posta Doğrulama</string>
+    <string name="email_verification_message">Doğrulama e-postası gönderildi. Lütfen yeni e-posta adresinizi doğrulayın.</string>
+    <string name="ok">Tamam</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
